@@ -32,3 +32,85 @@
     font-size: 16px;
     padding: 12px 24px;
 }
+/* main section */
+
+main{
+    position: relative;
+    width: 1000px;
+    height: 800px;
+    left: 106px;
+   
+}
+
+/* secton 2 css */
+.section2{
+
+}
+.section-image{
+    width: 569px;
+    height: 723.3px;
+    /* inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  
+
+
+}
+.section-title{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 600px;
+    top: 240px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+}
+.section-description{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 600px;
+    top: 370px;
+    color: #444343;
+}
+#section-list{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 615px;
+    top: 460px;
+}
+#section-list2{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 615px;
+    top: 480px;
+}
+#section-list3{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 615px;
+    top: 500px;
+}
+#section-list4{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 615px;
+    top: 520px;
+}
+#section-list5{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 615px;
+    top: 540px;
+}
