@@ -1,0 +1,34 @@
+/* banner style */
+.banner{
+    position: relative;
+    text-align: right;
+    color: black;
+}
+.bnr-txt{
+  position: absolute;
+  right: 100px;
+  top: 20%;
+  bottom: 80%;
+  width: 900px;
+  font-size: 55px
+
+}
+
+.bnr-description{
+    position:absolute;
+    right: 100px;
+    top: 53%;
+    bottom: 47%;
+    font-size: 20px;
+}
+.bnr-btn{
+    position: absolute;
+    right: 100px;
+    top: 70%;
+    bottom: 30%;
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+}
