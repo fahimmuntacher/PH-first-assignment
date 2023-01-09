@@ -26,11 +26,15 @@
     right: 100px;
     top: 70%;
     bottom: 30%;
+    width: 160px;
+    height: 64px;
+    border-radius: 4px;
     background-color: orangered;
     border: none;
     color: white;
-    font-size: 16px;
+    font-size: 20px;
     padding: 12px 24px;
+
 }
 /* main section */
 
@@ -120,7 +124,7 @@ main{
     position: absolute;
     width: 1141px;
     height: 299.96px;
-    left: 230px;
+    left: 170px;
     top: 1450px;
 }
 
@@ -223,5 +227,85 @@ main{
     height: 35px;
     left: 610px;
     top: 240px;
+}
+/* ecommerce plan css style */
 
+.ecommerce-image{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 130px;
+    left: 870px;
+}
+
+.ecom-title{
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    top: 190px;
+    left: 840px;
+
+}
+.ecom-description{
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    top: 240px;
+    left: 860px ;
+
+}
+/* section 4 css style */
+
+.watch{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 110px;
+    top: 1800px;
+    
+
+}
+
+.sec-title{
+    position: absolute;
+    width: 450px;
+    height: 90px;
+    top: 1850px;
+    left: 140px;
+    border-radius: 10px;
+
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+
+
+    /* font style */
+    color: white;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+}
+
+.sec-btn{
+    position: absolute;
+    width: 140px;
+    height: 55px;
+    top: 1990px;
+    left: 140px;
+    background-color: white;
+    border-radius: 4px;
+    /* font style */
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.always-positive{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
 }
